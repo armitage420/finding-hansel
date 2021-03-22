@@ -1,11 +1,11 @@
-# Greta Finding Hansel :couple:
+# Gretel Finding Hansel :couple:
 Shortest Path in a Maze Algorithm using backtracking between randomly generated source(Greta) and destination(Hansel).
 ## Description
-Hansel is lost in a :deciduous_tree: forest :deciduous_tree: and Greta have to find him :eyes:. All the forest/maze walls are represented with '#'. The only way out to the forest is if Greta can find her brother Hansel, only then they can together teleport out of the forest ⚡ :milky_way: ⚡.
+Hansel is lost in a :deciduous_tree: forest :deciduous_tree: and Gretel have to find him :eyes:. All the forest/maze walls are represented with '#'. The only way out to the forest is if Gretel can find her brother Hansel, only then they can together teleport out of the forest ⚡ :milky_way: ⚡.
 
 ## Input and Output
-An input file is provided with the number of rows and columns in the first line, followed by the maze in following lines. Hansel and Gretal are randomly placed in the maze within the bounds of the maze and if the set coordinate is not a wall/tree('#').
-####:point_down: My [algortihm](https://github.com/armitage420/finding-hansel/blob/main/Shortest%20Path/src/com/maze/Grid.java) gave the following results to the input files :point_down:
+An input file is provided with the number of rows and columns in the first line, followed by the maze in following lines. Hansel and Gretel are randomly placed in the maze within the bounds of the maze and if the set coordinate is not a wall/tree('#').
+#### :point_down: My [algortihm](https://github.com/armitage420/finding-hansel/blob/main/Shortest%20Path/src/com/maze/Grid.java) gave the following results to the input files :point_down:
 #### Below is the maze provided in the [First file](https://github.com/armitage420/finding-hansel/blob/main/Shortest%20Path/mz1.txt):
 ```
 ###########
